@@ -7,6 +7,8 @@ import { day7part1 } from "./day7/day7part1";
 import { day7part2 } from "./day7/day7part2";
 import { day8part1 } from "./day8/day8part1";
 import { day8part2 } from "./day8/day8part2";
+import { day9part1 } from "./day9/day9part1";
+import { day9part2 } from "./day9/day9part2";
 
 /**
  * Some predefined delay values (in milliseconds).
@@ -49,4 +51,6 @@ export async function greeter(name: string) {
 //day7part1();
 //day7part2();
 //day8part1();
-day8part2();
+//day8part2();
+//day9part1();
+day9part2();
