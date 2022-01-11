@@ -1,3 +1,6 @@
+import { day10part1 } from "./day10/day10part1";
+import { day10part2 } from "./day10/day10part2";
+import { day11part1 } from "./day11/day11part1";
 import { day4 } from "./day4/day4part1";
 import { day4pt2 } from "./day4/day4part2";
 import { day5 } from "./day5/day5part1";
@@ -53,4 +56,7 @@ export async function greeter(name: string) {
 //day8part1();
 //day8part2();
 //day9part1();
-day9part2();
+//day9part2();
+//day10part1();
+//day10part2();
+day11part1();
